@@ -30,7 +30,13 @@ body {
 	}
 }
 
-
+/* COVER */
+.container {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: calc(100vh - 139px);
+}
 
 /* ZONE */
 .zone {
